@@ -11,8 +11,3 @@ IDEA 2) Small household project ideas.
  - Users can scroll projects by various categories.
  - If user clicks a project they can see more details about what project 
    steps, materials, timelines and reviews for the specific project.
-
-
-
-
-
